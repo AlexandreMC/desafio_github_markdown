@@ -43,6 +43,6 @@
     
  ## Referências
 
-- https://twitter.com/ (Fonte dos Dados)
+- https://web.dio.me/track/formacao-github-certification (Formação Github Certification - DIO)
 - https://www.seleniumhq.org/projects/remote-control/ (Selenium - Biblioteca utilizada para Web Scraping)
 - https://cran.r-project.org/ (R - Linguagem utilizada para programar o Web Scraping)
