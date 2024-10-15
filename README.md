@@ -17,18 +17,21 @@
 ## Formação Github Certification - DIO
 
 
-| Elementos | Descrição |
-|-----------|-----------|
-|Tweets Anotados.csv| **Tweets** anotados **com ou sem** eventos adversos. 4 colunas - ID, frase, valor real e Evento Adverso. A coluna valor real, corresponde a anotação manual. A coluna Evento Adverso, corresponde a anotação do sistema.|
-|Tweets Anotados.txt|Lista em formato de texto simples contendo os **Tweets**.|
-|tweetsComEventos|Lista em formato de texto simples contendo os Tweets **COM** Eventos Adversos. 	|
-|tweetsSemEventos| Lista em formato de texto simples contendo os Tweets **SEM** Eventos Adversos.|
-|Com evento adverso|Diretório com Tweets **COM** eventos Adversos, 1 por arquivo.|
-|Sem evento adverso|Diretório com Tweets **SEM** eventos Adversos, 1 por arquivo.|
-|README.md|Esse arquivo.|
-
-
-
+| Elementos MarkDown     | Descrição                                                         |
+|------------------------|-------------------------------------------------------------------|
+| Títulos                | Utilização do caracter `#`, na frente do texto                    |
+| Listas numeradas       | Número seguido do caracter `.`                                    |
+| Listas não numeradas   | Utilização do caracter `*` ou `-`, na frente do texto             |
+| Negrito                | Envolver o texto com `**` ou `__`                                 |
+| Itálico                | Envolver o texto com `*` ou `_`                                   |
+| Código em linha        | Envolver o texto com crase \` \`                                  |
+| Bloco de código        | Utilização de três crases \`\`\` antes e depois do bloco          |
+| Link                   | `[texto](URL)` para criar um link                                 |
+| Imagem                 | `![alt text](caminho da imagem)` para exibir uma imagem           |
+| Citação                | Utilização do símbolo `>` no início da linha                      |
+| Tabelas                | Criar utilizando barras verticais `|` e hífens `-` para separação |
+| Caixa de Seleção       | Utilização do caracter `[ ]` ou `[x]` para marcar itens           |
+| Linha Horizontal       | Três ou mais `---` ou `***`                                       |
 
 ## Para citar:
 
