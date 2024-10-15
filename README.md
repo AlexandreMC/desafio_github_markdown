@@ -12,17 +12,37 @@
 
 5. [X] Formatação com Markdown
 
-- Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+# Usando a linguagem MarkDown
 
-<div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
-
-<div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
+## Formação Github Certification - DIO
 
 
-Como desafio extra, sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github, afinal, segurança é fundamental 🔒.
+| Elementos | Descrição |
+|-----------|-----------|
+|Tweets Anotados.csv| **Tweets** anotados **com ou sem** eventos adversos. 4 colunas - ID, frase, valor real e Evento Adverso. A coluna valor real, corresponde a anotação manual. A coluna Evento Adverso, corresponde a anotação do sistema.|
+|Tweets Anotados.txt|Lista em formato de texto simples contendo os **Tweets**.|
+|tweetsComEventos|Lista em formato de texto simples contendo os Tweets **COM** Eventos Adversos. 	|
+|tweetsSemEventos| Lista em formato de texto simples contendo os Tweets **SEM** Eventos Adversos.|
+|Com evento adverso|Diretório com Tweets **COM** eventos Adversos, 1 por arquivo.|
+|Sem evento adverso|Diretório com Tweets **SEM** eventos Adversos, 1 por arquivo.|
+|README.md|Esse arquivo.|
 
-Crie branches para o seu projeto e realizem merge das alterações. Treinem os comandos do Git, afinal, eles fazem parte do dia a dia de um desenvolvedor(a) colaborativo 😉.
 
-Ahhh e quero ver o README do Perfil bem legal ein?! 😎
 
-Então... bons estudos!!
+
+## Para citar:
+
+    @inproceedings{
+        title={Meu repositório},
+        author={Cunha, Alexandre Martins},
+        booktitle={DIO},
+        year={2024},
+        organization={SBC}
+    }
+
+    
+ ## Referências
+
+- https://twitter.com/ (Fonte dos Dados)
+- https://www.seleniumhq.org/projects/remote-control/ (Selenium - Biblioteca utilizada para Web Scraping)
+- https://cran.r-project.org/ (R - Linguagem utilizada para programar o Web Scraping)
